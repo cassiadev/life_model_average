@@ -1,6 +1,6 @@
-# now_merge_your_dance
+# lyferage
 
-A Flutter application to record the dance video along with the referenced one.
+A Flutter and AI application to explore the average lifestyles of people within specific categories.
 
 ## Getting Started
 
